@@ -19,7 +19,8 @@ allprojects {
         jcenter()
         google()
         mavenCentral()
-        maven { url "https://tencent-tds-maven.pkg.coding.net/repository/shiply/repo" }
+        //        maven { url "https://tencent-tds-maven.pkg.coding.net/repository/shiply/repo" }
+        maven { url "https://maven.cnb.cool/tencent-tds/shiply-public/-/packages/" }
     }
 }
 
